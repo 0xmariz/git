@@ -39,3 +39,9 @@ to go back to main branch - git checkout main
 
 to push in the frontend branch - git push origin frontend
 
+after pushing it into the frontend branch we need to merge the branch.
+for that we need to create a pull request for the admin 
+the admin will accept the request and merge into main branch.
+
+
+
