@@ -25,3 +25,6 @@ origin :initial cloned url
 
 git pull - the will pull from the cloud repo to local.
 
+git status - this will show wheather the file is staged or not 
+
+
