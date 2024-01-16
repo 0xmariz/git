@@ -52,3 +52,5 @@ git stash - restore the deleted info
 git stash pop 
 
 git branch -a - this will show the all the branch created
+
+git log -  this shows the history commits
