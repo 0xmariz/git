@@ -24,5 +24,5 @@ git commit -m "feat : added the Conventional Commits"
 git push origin main
 origin :initial cloned url
 
-
+git pull - the will pull from the cloud repo to local.
 
