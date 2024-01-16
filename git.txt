@@ -47,10 +47,6 @@ now merge conflict - in this the if you edit in local repo and someone edit in c
 when we want to push our code we will get the merge conflict
 so either we have to accept the changes by both changes 
 
-<<<<<<< Updated upstream
+git stash - restore the deleted info
 
-
-
-=======
-git statsh
->>>>>>> Stashed changes
+git stash pop 
