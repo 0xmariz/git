@@ -29,3 +29,13 @@ git status - this will show wheather the file is staged or not
 
 git diff - this will show the edited area in the file.
 
+git branch - this will tell your current branch
+
+git checkout -B - to create a new branch
+
+git checkout -B "frontend"
+
+to go back to main branch - git checkout main
+
+to push in the frontend branch - git push origin frontend
+
