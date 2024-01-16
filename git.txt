@@ -50,3 +50,5 @@ so either we have to accept the changes by both changes
 git stash - restore the deleted info
 
 git stash pop 
+
+git branch -a - this will show the all the branch created
