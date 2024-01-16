@@ -20,7 +20,6 @@ doc - documentation
 chore - not so important work is done
 
 git commit -m "feat : added the Conventional Commits"
-
 git push origin main
 origin :initial cloned url
 
