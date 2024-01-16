@@ -39,15 +39,11 @@ to go back to main branch - git checkout main
 
 to push in the frontend branch - git push origin frontend
 
-<<<<<<< HEAD
 after pushing it into the frontend branch we need to merge the branch.
 for that we need to create a pull request for the admin 
 the admin will accept the request and merge into main branch.
 
+now merge conflict - in this the if you edit in local repo and someone edit in cloud repo and
+when we want to push our code we will get the merge conflict
+so either we have to accept the changes by both changes 
 
-
-=======
-
-
-now lets start merge conflict 
->>>>>>> d0485ace29feb933b537dcb36a7c7467a321dcd2
