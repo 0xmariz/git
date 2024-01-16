@@ -9,5 +9,20 @@ git push - this will push into the cloud repo - remote repo
 
 git reset - it is used to edit the staged files. after the staged process if you want to edit the files we have the give git reset.
 
+git commit -m ""
+
+
+feat - new feature
+fix - fix the issue 
+!fix - if it affects other users
+refactor - editiing the existing one
+doc - documentation
+chore - not so important work is done
+
+git commit -m "feat : added the Conventional Commits"
+
+git push origin main
+origin :initial cloned url
+
 
 
