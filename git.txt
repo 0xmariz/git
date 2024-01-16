@@ -1,0 +1,11 @@
+git clone url
+
+git config --global user.name "0xmariz"
+git config --global user.email "marilearn101@gmail.com"
+
+git add file_name - this will make the file ready to stage
+git commit - the files will get staged
+git push - this will push into the cloud repo.
+
+
+
