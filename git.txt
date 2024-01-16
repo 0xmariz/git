@@ -37,3 +37,5 @@ git checkout -B "frontend"
 
 to go back to main branch - git checkout main
 
+to push in the frontend branch - git push origin frontend
+
